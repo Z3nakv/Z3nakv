@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Rivarola</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://media.tenor.com/f61Fpec7INoAAAAi/mecha-anime.gif" /> 
+<img align="right" src="https://media.tenor.com/f61Fpec7INoAAAAi/mecha-anime.gif" /> 
 
 - 🌱 I’m currently learning **NextJs**
 
